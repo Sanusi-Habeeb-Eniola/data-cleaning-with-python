@@ -158,12 +158,3 @@ To run this project locally:
 * Clean datasets form the foundation for effective data‑driven decision‑making
 
 ---
-
-## 👤 Author
-
-**Sanusi Habeeb Eniola**
-Data Analyst | Data Cleaning & Quality Analysis | Python
-
----
-
-⭐ *If you find this project useful, feel free to star the repository and connect!*
